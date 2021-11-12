@@ -10,10 +10,10 @@ import Nav from './Nav'
 const BlogPage = () => {
   return(
     <>
-      <div class="blog-page">
+      <div className="blog-page">
         <BlogHeader />
         <Nav />
-        <div class="wrap grid-wrapper">
+        <div className="wrap grid-wrapper">
           <BlogArticle />
           <BlogSidebar />
         </div>

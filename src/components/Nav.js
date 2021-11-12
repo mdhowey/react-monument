@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <div>
       <nav>
-        <a class="hamburger" href="#stink"><i class="fa fa-bars"></i></a>
+        <a className="hamburger" href="#stink"><i className="fa fa-bars"></i></a>
         <ul>
           <li><a href="#about">About</a></li>
           <li><a href="#gallery">Gallery</a></li>

@@ -106,13 +106,13 @@ section {
 	display: flex;
 	-webkit-box-orient: horizontal;
 	-webkit-box-direction: normal;
-	    -ms-flex-direction: row;
-	        flex-direction: row;
+		-ms-flex-direction: row;
+			flex-direction: row;
 	-ms-flex-wrap: wrap;
-	    flex-wrap: wrap;
+	  flex-wrap: wrap;
 	-webkit-box-pack: justify;
-	    -ms-flex-pack: justify;
-	        justify-content: space-between;
+	  -ms-flex-pack: justify;
+	    justify-content: space-between;
 }
 
 .col-third {
@@ -128,13 +128,13 @@ section {
 	display: -ms-flexbox;
 	display: flex;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	  -ms-flex-align: center;
+	    align-items: center;
 	-webkit-box-pack: center;
-	    -ms-flex-pack: center;
-	        justify-content: center;
+	  -ms-flex-pack: center;
+	    justify-content: center;
 	-ms-flex-wrap:  wrap;
-	    flex-wrap:  wrap;
+	  flex-wrap:  wrap;
 }
 
 .callout {
@@ -224,13 +224,13 @@ form {
 	display: flex;
 	-webkit-box-orient: horizontal;
 	-webkit-box-direction: normal;
-	    -ms-flex-direction: row;
-	        flex-direction: row;
+	  -ms-flex-direction: row;
+	    flex-direction: row;
 	-ms-flex-wrap: wrap;
-	    flex-wrap: wrap;
+	  flex-wrap: wrap;
 	-webkit-box-pack: justify;
-	    -ms-flex-pack: justify;
-	        justify-content: space-between;
+	  -ms-flex-pack: justify;
+	    justify-content: space-between;
 }
 
 form button {
